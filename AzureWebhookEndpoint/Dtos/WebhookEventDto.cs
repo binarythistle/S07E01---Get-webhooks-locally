@@ -1,0 +1,1 @@
+public record WebhookEventDto(string Headers, string Body);
